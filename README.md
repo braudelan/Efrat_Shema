@@ -8,3 +8,7 @@ The number of recognition sites (including it's complementary sequence) and the 
 
 The repository also contains a short script to download the reference genome from the NCBI nucleotide database.
 Mitochondrial chromosome and Ribosomal RNA are not included in the analysis.
+
+*methylation.py* contains the main functions to extract extended sequences and count.
+ 
+
