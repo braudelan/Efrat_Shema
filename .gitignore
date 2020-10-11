@@ -1,0 +1,5 @@
+reference_genome/
+reference_genome.fna
+reference_genome.fna.fai
+*.bam*
+.ipynb
